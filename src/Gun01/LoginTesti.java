@@ -9,10 +9,10 @@ public class LoginTesti {
         // çok satır yazdım, çünkü test senaryosu uzun olabilir
         System.out.println("Login Testi 1");
 
-        System.out.println("Sepet testi yazildi bitirildi,3 günlük kod yazild1");
-
-        System.out.println("Login Testi 2");
-
         System.out.println("Login Testi 3 yedi gün uğraltım anam ağladı");
+
+        System.out.println("Login Testi 4");
+        System.out.println("Login Testi 5");
+
     }
 }
